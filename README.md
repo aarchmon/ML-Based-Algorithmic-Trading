@@ -10,9 +10,13 @@ The entirety of this notebook was generated via _Google Colab_. Therefore, you a
 
 [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module.
 
+[numpy](https://numpy.org/install/) - Numerical computing module.
+
 [pathlib](https://docs.python.org/3/library/pathlib.html) - Object-oriented filesystem path library.
 
-[tensorflow](https://pypi.org/project/tensorflow/) - High-performance numerical computation library. 
+[hvplot](https://hvplot.holoviz.org/) - Interactive plotting module. 
+
+[matplotlib](https://matplotlib.org/) - Plotting module. 
 
 [sklearn](https://sklearn.org/) - Machine learning module.
 
@@ -24,12 +28,15 @@ With your _Python 3.7+_ environment, run the following commands via CLI:
 
 ```
 import pandas as pd
+import numpy as np
 from pathlib import Path
-import tensorflow as tf
-from tensorflow.keras.layers import Dense
-from tensorflow.keras.models import Sequential
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler,OneHotEncoder
+import hvplot.pandas
+import matplotlib.pyplot as plt
+from sklearn import svm
+from sklearn.preprocessing import StandardScaler
+from pandas.tseries.offsets import DateOffset
+from sklearn.metrics import classification_report
+from sklearn import tree
 ```
 
 ---
