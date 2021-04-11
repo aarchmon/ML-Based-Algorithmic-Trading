@@ -6,7 +6,7 @@
 
 ## Technologies
 
-The entirety of this notebook was generated via _Google Colab_. Therefore, you are not required to import any modules onto your personal machine. Below is a list containing all of the _Python 3.7 +_ modules that are utilized in this notebook.
+Before attempting to execute any Python code in `machine_learning_trading_bot.ipynb`, it is imperative that your development environment holds the following modules:
 
 [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module.
 
