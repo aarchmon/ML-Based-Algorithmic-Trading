@@ -38,7 +38,7 @@ from sklearn.preprocessing import StandardScaler,OneHotEncoder
 
 ![SVC](./Images/SVC.png)
 
-![Decision Tree](./Images/Decision_tree.png)
+![Decision Tree](./Images/Decision_Tree.png)
 
 ---
 
