@@ -52,13 +52,9 @@ from sklearn.preprocessing import StandardScaler,OneHotEncoder
 
 1. Clone repository onto your personal machine. 
 
-2. Open _Google Colab_.
+2. Open _Jupyter Lab_ or _Jupyter Notebook_ via _Anaconda Navigator_ and navigate to the directory in which the file `credit_risk_resampling.ipynb` is present. _All relevant code for this repository will be executed via Jupyter Notebook and no output will be printed to the command line_. Ensure that all relevant dependencies and _Python_ modules are installed (see __Technologies__ and __Installation Guide__ for more details) before attempting to execute code within _Jupyter Notebook_; otherwise, you will receive multiple interpreter errors! 
 
-3. Open `venture_funding_with_deep_learning.ipynb` within _Google Colab_. 
-
-4. During the section in which the _.csv_ file `applicants_data.csv` is imported, ensure that this file is present on your personal machine from the repository cloning in Step 1. 
-
-5. With the notebook open in _Google Colab_ step through each of the code blocks to review analysis.  
+3. With the notebook open, start at the very first cell reading "__Credit Risk Classification__" (a cell will be active when a rectangular border is surrounding the area in question). Run each cell in sequential order. _It is vital that all cells are ran in sequential order or your notebook will generate compiler errors_!. 
 
 ---
 
