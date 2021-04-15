@@ -43,11 +43,15 @@ from sklearn import tree
 
 ---
 
-## Examples
+## Examples (Baseline Model)
 
 ![SVC](./Images/SVC.png)
 
 ![Decision Tree](./Images/Decision_Tree.png)
+
+---
+
+## Example (Updated Model)
 
 ---
 
