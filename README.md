@@ -45,10 +45,6 @@ from sklearn import tree
 
 ## Examples
 
-![SVC](./Images/SVC.png)
-
-![Decision Tree](./Images/Decision_Tree.png)
-
 ---
 
 ## Conclusion
@@ -56,8 +52,6 @@ from sklearn import tree
 Within this notebook, two machine learning algorithms (_SVC_ classifier model and _Decision Tree_) were carried out for the purpose of evaluating their effectiveness within the realm of algorithmic trading. For the sake of consistency and effective analysis, the long and short trading windows retained their size across both algorithms and the training / testing data remained identical. The plot below showcases the cumulative returns of both the _SVC_ classifier model and _Decision Tree_ model across the same time period. From this, we can conclude that the trading strategy based off of the _Decision Tree_ model proves to be much more effective in generating cumulative returns for the OHLVC dataset. 
 
 asdf
-
-![Comparison Plot](./Images/Combined.png)
 
 ---
 
