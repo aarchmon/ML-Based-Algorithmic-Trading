@@ -51,7 +51,7 @@ from sklearn import tree
 
 ---
 
-## Example (Updated Model)
+## Examples (Updated Model)
 
 ---
 
